@@ -1,11 +1,9 @@
-### Hi there, I'm Lucas 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/LucasHBG_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=LucasHBG_)
+## Hi there <img width="26px" src="https://media.giphy.com/media/3ohc0UFN0udeMoEIW4/giphy.gif"/>
 
-## I'm a Developer currently mastering Frontend development 
-- 🔭 I’m currently working on a open-source website to host your portfolio with [NextJS][nextjs]
+- 🔭 I’m currently working on something cool with [NextJS][nextjs]
 - 🌱 I’m currently learning [Flutter][flutter] and [React][react] using Typescript.
-- 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with Design Patterns 
+- 📫 How to reach me: [@LucasHBG_][twitter]
+- 🤔 Always open for tips related to Design Patterns/UI
 
 ### Connect with me:
 

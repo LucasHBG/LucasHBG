@@ -1,10 +1,14 @@
-### Hi there <img width="26px" src="https://media.giphy.com/media/3ohc0UFN0udeMoEIW4/giphy.gif"/>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 This is the place where I manage to break things up 😅 
 
 - 🔭 I’m currently working on something cool with [NextJS][nextjs]
 - 🌱 I’m currently learning [Flutter][flutter] and [React][react] using Typescript.
 - 📫 How to reach me: [@LucasHBG_][twitter]
 - 🤔 Always open for tips related to Design Patterns/UI
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lucashbg&hide_title=true&hide_border=true&langs_count=5)
 
 ### Connect with me:
 
@@ -17,7 +21,7 @@ This is the place where I manage to break things up 😅
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/31226269/101202438-02f3a800-3648-11eb-8d5f-5dd200b64dd9.png" />
+<img align="left" alt="Flutter" width="25px" src="https://user-images.githubusercontent.com/31226269/101202438-02f3a800-3648-11eb-8d5f-5dd200b64dd9.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

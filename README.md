@@ -1,4 +1,5 @@
-## Hi there <img width="26px" src="https://media.giphy.com/media/3ohc0UFN0udeMoEIW4/giphy.gif"/>
+### Hi there <img width="26px" src="https://media.giphy.com/media/3ohc0UFN0udeMoEIW4/giphy.gif"/>
+This is the place where I manage to break things up 😅 
 
 - 🔭 I’m currently working on something cool with [NextJS][nextjs]
 - 🌱 I’m currently learning [Flutter][flutter] and [React][react] using Typescript.

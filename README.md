@@ -21,7 +21,7 @@ This is the place where I manage to break things up 😅
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="25px" src="https://user-images.githubusercontent.com/31226269/101202438-02f3a800-3648-11eb-8d5f-5dd200b64dd9.png" />
+<img align="left" alt="Flutter" width="24px" src="https://user-images.githubusercontent.com/31226269/101202438-02f3a800-3648-11eb-8d5f-5dd200b64dd9.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />

@@ -43,4 +43,4 @@ This is the place where I manage to break things up 😅
 [flutter]:      https://flutter.dev
 [twitter]:      https://twitter.com/LucasHBG_
 [linkedin]:     https://www.linkedin.com/in/lucashbg/
-[instagram]:    https://www.instagram.com/lucashbg_/
+[instagram]:    https://www.instagram.com/lucashbg/

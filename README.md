@@ -14,9 +14,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LucasHBG | Twitter" width="25px" height="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
-[<img align="left" alt="LucasHBG | LinkedIn" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LucasHBG | Instagram" width="25px" height="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LucasHBG | Twitter" width="30px"   src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
+[<img align="left" alt="LucasHBG | LinkedIn" width="30px"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" alt="LucasHBG | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
+[<img align="left" alt="LucasHBG | Figma"     width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
 
 <br />
 <br />
@@ -55,6 +56,7 @@
 <br><br>
 
 [react]:        https://create-react-app.dev/docs/adding-typescript/
+[figma]:        https://www.figma.com/@lucashbg
 [nextjs]:       https://nextjs.org
 [flutter]:      https://flutter.dev
 [twitter]:      https://twitter.com/LucasHBG_

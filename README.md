@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LucasHBG | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LucasHBG | Twitter" width="22px" src="https://user-images.githubusercontent.com/31226269/132578354-ab86ee6a-1b64-4240-99d5-12baa387bd13.png" />][twitter]
 [<img align="left" alt="LucasHBG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LucasHBG | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 

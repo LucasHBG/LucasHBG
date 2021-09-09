@@ -3,14 +3,26 @@
 
 <br />
 
+**About me**
+    
 - 🔭 I recently learned Static Site Generators with [NextJS][nextjs]
 - 🌱 I’m currently learning [Flutter][flutter] and [React][react] using Typescript.
 - 📫 How to reach me: [@LucasHBG_][twitter]
-- 🤔 Always open for tips related to Design Patterns/UI and app deploy with [Docker][docker] and [Kubernets][kubernets]
+- 💬 Always open for tips related to Design Patterns/UI and app deploy with [Docker][docker] and [Kubernets][kubernets]
 
+<!--- Deactivated for now
 📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lucashbg&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lucashbg&theme=dark&hide_title=true&hide_border=true&langs_count=5)
+--->
+
+<a href="https://github.com/LucasHBG">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucashbg&theme=jolly&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Lucas's GitHub Stats" />
+</a>
+
+<a href="https://github.com/LucasHBG">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashbg&layout=compact&hide_border=true&theme=jolly" alt="Lucas's GitHub Stats" />
+</a>
 
 ### Connect with me:
 

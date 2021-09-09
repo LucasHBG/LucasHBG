@@ -17,11 +17,11 @@
 --->
 
 <a href="https://github.com/LucasHBG">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucashbg&theme=jolly&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Lucas's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucashbg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=issues&theme=radical" alt="Lucas's GitHub Stats" />
 </a>
 
 <a href="https://github.com/LucasHBG">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashbg&layout=compact&hide_border=true&theme=jolly" alt="Lucas's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashbg&layout=compact&hide_border=true&theme=radical" alt="Lucas's Used Languages" />
 </a>
 
 ### Connect with me:

@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3px" height="5px"/> </h3> 
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="8px"/> </h3> 
 <h3 align="center">This is the place where I manage to break things up 😅</h3> 
 
 <br />

@@ -5,10 +5,10 @@
 
 **About me**
     
-- 🔭 I recently learned Static Site Generators with [NextJS][nextjs]
-- 🌱 I’m currently learning [Flutter][flutter] and [React][react] using Typescript.
-- 📫 How to reach me: [@LucasHBG_][twitter]
-- 💬 Always open for tips related to Design Patterns/UI and app deploy with [Docker][docker] and [Kubernets][kubernets]
+- 🔧 I'm a Software Engineer with 2+ years of experience building, maintaining and deploying high quality products. 
+- 🌱 Currently learning [Flutter][flutter] and getting deep knownledge of [Java][java].
+- 📫 How to reach me: [@LucasHBG][linkedin]
+- 💬 Always open for tips related to Code Optimization and app deployment using [Docker][docker] and [Kubernets][kubernets]
 
 <!--- Deactivated for now
 📊 **This week I spent my time on**
@@ -26,7 +26,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LucasHBG | Twitter" width="30px"   src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />][twitter]
 [<img align="left" alt="LucasHBG | LinkedIn" width="30px"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="LucasHBG | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 [<img align="left" alt="LucasHBG | Figma"     width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
@@ -53,9 +52,6 @@
     </a>
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"/> 
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/> 
     </a>
 </p>
 
@@ -63,7 +59,7 @@
         <a href="https://www.w3.org/html/" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/> 
             </a> 
-        <a href="https://www.java.com" target="_blank"> 
+        <a href="https://www.dev.java.com" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40"/> 
             </a>
         <a href="https://insomnia.rest" target="_blank"> 
@@ -80,9 +76,6 @@
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> 
-        </a> 
-        <a href="https://nextjs.org/" target="_blank"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40"/> 
         </a>
         <a href="https://archlinux.org/" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="insomnia" width="40"/> 
@@ -107,9 +100,6 @@
             <a href="https://www.typescriptlang.org/" target="_blank"> 
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/> 
             </a> 
-            <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-                <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"/> 
-            </a> 
         </p>
 
 <h3 align="left">Support:</h3>
@@ -121,12 +111,11 @@
 
 <br><br>
 
+[java]:         https://dev.java/
 [react]:        https://create-react-app.dev/docs/adding-typescript/
 [figma]:        https://www.figma.com/@lucashbg
-[nextjs]:       https://nextjs.org
 [docker]:       https://www.docker.com
 [flutter]:      https://flutter.dev
-[twitter]:      https://twitter.com/LucasHBG_
 [linkedin]:     https://www.linkedin.com/in/lucashbg/
 [kubernets]:    https://kubernetes.io
 [instagram]:    https://www.instagram.com/lucashbg/

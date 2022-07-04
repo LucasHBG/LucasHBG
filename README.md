@@ -28,7 +28,6 @@
 
 [<img align="left" alt="LucasHBG | LinkedIn" width="30px"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="LucasHBG | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
-[<img align="left" alt="LucasHBG | Figma"     width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][figma]
 
 <br />
 <br />
@@ -113,7 +112,6 @@
 
 [java]:         https://dev.java/
 [react]:        https://create-react-app.dev/docs/adding-typescript/
-[figma]:        https://www.figma.com/@lucashbg
 [docker]:       https://www.docker.com
 [flutter]:      https://flutter.dev
 [linkedin]:     https://www.linkedin.com/in/lucashbg/

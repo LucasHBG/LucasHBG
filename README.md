@@ -37,9 +37,6 @@
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> 
     </a> 
-    <a href="https://www.chartjs.org" target="_blank">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40"/> 
-    </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/> 
     </a> 
@@ -51,6 +48,9 @@
     </a>
     <a href="https://flutter.dev" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"/> 
+    </a>
+    <a href="https://firebase.google.com/?hl=pt" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> 
     </a>
 </p>
 
@@ -64,9 +64,6 @@
         <a href="https://insomnia.rest" target="_blank"> 
             <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/insomnia.svg" alt="insomnia" width="40"/> 
         </a>
-        <a href="https://www.linux.org/" target="_blank"> 
-            <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40"/> 
-        </a> 
         <a href="https://mariadb.org/" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40"/> 
         </a> 

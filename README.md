@@ -5,10 +5,10 @@
 
 **About me**
     
-- 🔧 I'm a Software Engineer with 2+ years of experience building, maintaining and deploying high quality products. 
-- 🌱 Currently learning [Flutter][flutter] and getting deep knownledge of [Java][java].
+- 🔧 I'm a Software Engineer with 3+ years of experience building, maintaining and deploying high quality products. 
+- 🌱 Currently learning [Flutter][flutter] and getting deep knownledge of [NextJS][nextjs].
 - 📫 How to reach me: [@LucasHBG][linkedin]
-- 💬 Always open for tips related to Code Optimization and app deployment using [Docker][docker] and [Kubernets][kubernets]
+- 💬 Always open for tips related to Code Optimization and app deployment using [Docker][docker].
 
 <!--- Deactivated for now
 📊 **This week I spent my time on**
@@ -110,7 +110,7 @@
 [java]:         https://dev.java/
 [react]:        https://create-react-app.dev/docs/adding-typescript/
 [docker]:       https://www.docker.com
+[nextjs]:       https://nextjs.org/
 [flutter]:      https://flutter.dev
 [linkedin]:     https://www.linkedin.com/in/lucashbg/
-[kubernets]:    https://kubernetes.io
 [instagram]:    https://www.instagram.com/lucashbg/

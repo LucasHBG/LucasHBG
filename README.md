@@ -5,16 +5,10 @@
 
 **About me**
     
-- 🔧 I'm a Software Engineer with 3+ years of experience building, maintaining and deploying high quality products. 
-- 🌱 Currently learning [Flutter][flutter] and getting deep knownledge of [NextJS][nextjs].
+- 🔧 I'm a Software Engineer with 4+ years of experience building, maintaining and deploying high quality products. 
+- 🌱 Currently working with [Flutter][flutter] and [NextJS][nextjs] at my side projects/freelance.
 - 📫 How to reach me: [@LucasHBG][linkedin]
 - 💬 Always open for tips related to Code Optimization and app deployment using [Docker][docker].
-
-<!--- Deactivated for now
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=lucashbg&theme=dark&hide_title=true&hide_border=true&langs_count=5)
---->
 
 <a href="https://github.com/LucasHBG">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucashbg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=issues&theme=radical" alt="Lucas's GitHub Stats" />

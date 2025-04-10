@@ -5,10 +5,10 @@
 
 **About me**
     
-- 🔧 I'm a Software Engineer with 4+ years of experience building, maintaining and deploying high quality products. 
+- 🔧 I'm a Software Engineer with 6+ years of experience building, maintaining and deploying high quality products. 
 - 🌱 Currently working with [Flutter][flutter] and [NextJS][nextjs] at my side projects/freelance.
 - 📫 How to reach me: [@LucasHBG][linkedin]
-- 💬 Always open for tips related to Code Optimization and app deployment using [Docker][docker].
+- 💬 Always open for tips related to Code Optimization and app deployment using [Docker][docker] and [Devenv][Devenv].
 
 <a href="https://github.com/LucasHBG">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucashbg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=issues&theme=radical" alt="Lucas's GitHub Stats" />
@@ -104,6 +104,7 @@
 [java]:         https://dev.java/
 [react]:        https://create-react-app.dev/docs/adding-typescript/
 [docker]:       https://www.docker.com
+[devenv]:       https://devenv.sh/
 [nextjs]:       https://nextjs.org/
 [flutter]:      https://flutter.dev
 [linkedin]:     https://www.linkedin.com/in/lucashbg/

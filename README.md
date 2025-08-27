@@ -7,7 +7,7 @@
     
 - 🔧 I'm a Software Engineer with 6+ years of experience building, maintaining and deploying high quality products. 
 - 🌱 Currently working with [Flutter][flutter] and [NextJS][nextjs] at my side projects/freelance.
-- 📫 How to reach me: [@LucasHBG][linkedin]
+- 📫 How to reach me: [@LucasHBG][twitter]
 - 💬 Always open for tips related to Code Optimization and app deployment using [Docker][docker] and [Devenv][Devenv].
 
 <a href="https://github.com/LucasHBG">
@@ -20,7 +20,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LucasHBG | LinkedIn" width="30px"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 [<img align="left" alt="LucasHBG | Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />][instagram]
 
 <br />
@@ -107,5 +106,5 @@
 [devenv]:       https://devenv.sh/
 [nextjs]:       https://nextjs.org/
 [flutter]:      https://flutter.dev
-[linkedin]:     https://www.linkedin.com/in/lucashbg/
+[twitter]:      https://x.com/LucasHBG_
 [instagram]:    https://www.instagram.com/lucashbg/
